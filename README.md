@@ -52,4 +52,6 @@ Multi-router ASUS network (Wi-Fi 7 / 6E / 6) · VirtualBox server labs · a reti
 
 <div align="center">
   <img src="./assets/footer-logo.png" alt="Edward O'Connell III footer logo" width="130" />
+  <p><strong>IT Professional | CCNA • Security+ • A+</strong></p>
+  <p><em>Focused on networking, cybersecurity, IT infrastructure, and PowerShell automation, with career aspirations in systems engineering, systems administration, and network engineering.</em></p>
 </div>
